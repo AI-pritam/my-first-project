@@ -1,2 +1,2 @@
 # my-first-project
-Journey to learn out of limit 
+Journey to learn out of limit and achieve knowledge
